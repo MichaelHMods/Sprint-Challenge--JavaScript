@@ -10,6 +10,7 @@ function consume (x, y, cb){
   return cb(x,y);
 };
 
+
 /* Step 2: Create several functions to callback with consume();
   * Create a function named add that returns the sum of two numbers
   * Create a function named multiply that returns the product of two numbers 

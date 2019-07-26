@@ -33,17 +33,18 @@ Edit this document to include your answers after each question. Make sure to lea
 
 2. What is the difference between a function and a method?
 Function holds objects and methods hold functions.
+
 3. What is closure?
 It allows you to create within a function and then callback an item from within the function on the outside of the function.
+
 4. Describe the four rules of the 'this' keyword.
  a.Implict Binding- function is called by a preceding dot, the object before that dot is this.
  b.explicit binding-this is explcitly bond to an object
  c. new binding- Used with a construnctor function to build out objects.
  d. window binding-When this point back to the window. 
 
-4. Describe the four rules of the 'this' keyword.
-
 5. Why do we need super() in an extended class?
+If you do not use it, you cannot call the functions from the parent. 
 
 ## Project Set up
 
@@ -60,9 +61,9 @@ Follow these steps to set up and work on your project:
 
 Follow these steps for completing your project:
 
-- [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo).
-- [ ] Add your Project Manager as a Reviewer on the Pull-request
-- [ ] PM then will count the HW as done by  merging the branch back into master.
+- [x ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo).
+- [ x] Add your Project Manager as a Reviewer on the Pull-request
+- [ x] PM then will count the HW as done by  merging the branch back into master.
 
 
 ## Minimum Viable Product
